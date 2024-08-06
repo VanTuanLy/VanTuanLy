@@ -1,16 +1,35 @@
-## Hi there 👋
+<!-- <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg" /> -->
+<img align="right" width="64" src="https://github.com/TienNHM.png" />
+<!-- <img align="right" width="64" src="https://img.icons8.com/color/48/vietnam-circular.png" /> -->
 
-<!--
-**VanTuanLy/VanTuanLy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">Hi 👋, I'm Ly Tuan Van</h2>
+<p align="center">
+  <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
+</p>
 
-Here are some ideas to get you started:
+> ✍ I'm a student of University of Information Technology - UIT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+## 📫 How to reach me:
+
+<p align="center">
+  <a href="https://www.facebook.com/lytuan.van/" alt="Facebook">
+    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
+  </a> 
+  <a href="https://github.com/VanTuanLy" alt="Github">
+    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
+  </a> 
+  <a href="mailto:22521650@gm.uit.edu.vn" alt="Email">
+    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
+  </a>
+</p>
+
+## Skills:
+<p align="center">
+  <img src="https://img.icons8.com/?size=100&id=59952&format=png&color=000000"/>
+  <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000"/>
+  <img src=" https://img.icons8.com/?size=100&id=21278&format=png&color=000000"/>
+  <img src=" https://img.icons8.com/?size=100&id=laVIsJnTtYoj&format=png&color=000000"/>
+  <img src=" https://img.icons8.com/?size=100&id=geAxqWV0aAaI&format=png&color=000000"/>
+</p>
