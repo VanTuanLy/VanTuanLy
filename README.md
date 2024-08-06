@@ -29,7 +29,7 @@
 <p align="center">
   <img src="https://img.icons8.com/?size=100&id=59952&format=png&color=000000"/>
   <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000"/>
-  <img src=" https://img.icons8.com/?size=100&id=21278&format=png&color=000000"/>
-  <img src=" https://img.icons8.com/?size=100&id=laVIsJnTtYoj&format=png&color=000000"/>
-  <img src=" https://img.icons8.com/?size=100&id=geAxqWV0aAaI&format=png&color=000000"/>
+  <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000"/>
+  <img src="https://img.icons8.com/?size=100&id=laVIsJnTtYoj&format=png&color=000000"/>
+  <img src="https://img.icons8.com/?size=100&id=geAxqWV0aAaI&format=png&color=000000"/>
 </p>
